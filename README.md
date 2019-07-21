@@ -21,9 +21,9 @@ Clone the repo.
 
 Run the main executable:
 
-	```
-	dist/AutoZoom.exe
-	```
+```
+dist/AutoZoom.exe
+```
 
 ## Authors
 
